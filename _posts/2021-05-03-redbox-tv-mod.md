@@ -40,4 +40,4 @@ External Players can use this application and work quickly on its own platform. 
 
 ### Download
 
-[DOWNLOAD](/assets/app/RedboxTV.apk){:.btn-danger}
+[DOWNLOAD](/assets/app/RedBox_TV_v2.1.apk){:.btn-danger}
