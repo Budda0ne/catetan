@@ -31,9 +31,9 @@ Sports channels, science channels, Kids channels, Indian channels, Pakistani cha
 
 External Players can use this application and work quickly on its own platform. It means that the compatibility of RedBox TV is extremely high, can operate in many different environments. Android player, [MX player](https://www.knoacc.org/2020/05/download-mx-player-pro-semua-versi-unlocked.html), 321 player, and Web Player and many other popular tools can interact with it. But with the advice of the production team, they suggest using XYZ player developed by our team.
 
-![RedBox TV Ad free](https:///wp-content/uploads/2019/05/redbox-tv-mod-adfree-moddroid-3.jpg)
+![RedBox TV Ad free](https://cdn.statically.io/img/moddroid.com/wp-content/uploads/2019/05/redbox-tv-mod-adfree-moddroid-3.jpg)
 
-**Redbox TV** has a very light capacity so you can freely download it and use it immediately. You can see that they weigh *only approximately 30 MB* install. So if you want to delete it, it is easy, and it is not too challenging to reinstall it. It was produced with a minimal, unnecessary, all-encompassing method. Users will be able to instantly identify their usage thanks to an intuitive and easy-to-understand approach.
+**Redbox TV** has a very light capacity so you can freely [download it](#download) and use it immediately. You can see that they weigh *only approximately 30 MB* install. So if you want to delete it, it is easy, and it is not too challenging to reinstall it. It was produced with a minimal, unnecessary, all-encompassing method. Users will be able to instantly identify their usage thanks to an intuitive and easy-to-understand approach.
 
 ### MOD Info?
 
