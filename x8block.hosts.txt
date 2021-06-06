@@ -1,2 +1,7 @@
+
+127.0.0.1 localhost
+
 127.0.0.1 x8files-1251460295.file.myqcloud.com
 127.0.0.1 api.x8zs.com
+
+
