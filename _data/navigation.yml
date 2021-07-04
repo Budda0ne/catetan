@@ -2,6 +2,8 @@ main:
   - title: "URL Shortener"
     icon: "fa fa-link"
     url: "/javascript/"
+  - title: "Go Blog"
+    icon: "fa fa-blog"
 #  - title: "Full-stack Dev Roadmap"
 #    icon: "fa fa-dev"
 #    url: "/full-stack-developer-roadmap/"
