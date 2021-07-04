@@ -1,9 +1,10 @@
 main:
   - title: "URL Shortener"
     icon: "fa fa-link"
-    url: "/javascript/"
+    url: "http://go.catetan.online/"
   - title: "Go Blog"
     icon: "fa fa-blog"
+    url: "http://go.catetan.online/blog"
 #  - title: "Full-stack Dev Roadmap"
 #    icon: "fa fa-dev"
 #    url: "/full-stack-developer-roadmap/"
