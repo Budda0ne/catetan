@@ -25,7 +25,7 @@ production_url: https://my.gootech.my.id
 url: https://my.gootech.my.id
 baseurl: /
 CNAME: my.gootech.my.id
-title: "Catetan SeBel"
+title: "MYGOOTECH"
 subtitle: "Catetan dan Seluk Beluk"
 masthead_title: "SeBel"
 # email:
@@ -41,7 +41,6 @@ social:
   - https://www.twitter.com/knoacc
   - https://www.facebook.com/nasyrih
   - https://instagram.com/lautansyair
-
 facebook:
  app_id: 720457594754641
  publisher: https://www.facebook.com/nasyrih
