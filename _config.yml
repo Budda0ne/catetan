@@ -20,7 +20,7 @@ repo: catetan
 branch: master
 relative_source: ../catetan/
 destination: _site/
-production_url: https://my.gootech.my.id
+production_url: https://my.gootech.my.id/
 #source_url: https://github.com/knoacc/catetan/
 url: https://my.gootech.my.id
 baseurl: /
