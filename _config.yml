@@ -24,7 +24,7 @@ production_url: https://my.gootech.my.id/
 #source_url: https://github.com/knoacc/catetan/
 url: https://my.gootech.my.id
 baseurl: /
-CNAME: my.gootech.my.id
+#CNAME: my.gootech.my.id
 title: "MYGOOTECH"
 subtitle: "Catetan dan Seluk Beluk"
 masthead_title: "SeBel"
