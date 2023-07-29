@@ -34,13 +34,13 @@ twitter_username: knoacc
 # github_username: username
 # minimal_mistakes_skin: default
 # Social
-social:
- type: person
- name: Idlohulhaq Nasyrih
- links:
-  - https://www.twitter.com/knoacc
-  - https://www.facebook.com/nasyrih
-  - https://instagram.com/lautansyair
+#social:
+# type: person
+# name: Idlohulhaq Nasyrih
+# links:
+#  - https://www.twitter.com/knoacc
+#  - https://www.facebook.com/nasyrih
+#  - https://instagram.com/lautansyair
 facebook:
  app_id: 720457594754641
  publisher: https://www.facebook.com/nasyrih
@@ -89,7 +89,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _draft
-  - vendor
   - arsip
   - node_modules
   - vendor
@@ -109,9 +108,8 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
-  - jekyll-include-cache
+#  - jekyll-include-cache
 
 whitelist:
   - jekyll-feed
@@ -121,7 +119,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
+#  - jekyll-include-cache
 
 author:
   name   : "Mukidi"
