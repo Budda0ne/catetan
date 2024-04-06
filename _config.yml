@@ -45,9 +45,9 @@ facebook:
  app_id: 720457594754641
  publisher: https://www.facebook.com/nasyrih
 # Images
-teaser: https://cdn.statically.io/img/my.gootech.my.id/assets/images/teaser.gif
-image: https://cdn.statically.io/img/my.gootech.my.id/assets/images/catetan.gif
-logo: https://cdn.statically.io/img/my.gootech.my.id/assets/images/photo45.gif
+teaser: /assets/images/teaser.gif
+image: /assets/images/catetan.gif
+logo: /assets/images/photo45.gif
 #Search
 search: true
 search_provider: google
